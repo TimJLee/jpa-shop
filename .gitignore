@@ -176,7 +176,7 @@ $RECYCLE.BIN/
 .gradle
 .idea
 .*
-
+out
 
 # End of https://www.gitignore.io/api/git,java,maven,windows,eclipse
 
